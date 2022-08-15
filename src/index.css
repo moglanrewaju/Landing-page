@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link {
+@apply text-sm text-neutral-400 hover:text-neutral-600 font-semibold tracking-wide
+
+
+}
